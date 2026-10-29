@@ -1,0 +1,12 @@
+{
+  "name": "rehearsal-coach",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Local rehearsal and disconnected AI API scaffold",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "test": "node tests/connection.test.cjs"
+  }
+}
